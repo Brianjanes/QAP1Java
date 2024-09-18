@@ -1,0 +1,25 @@
+1. How many hours did it take you to complete this assessment? (Please keep try to keep 
+track of how many hours you have spent working on each individual part of this 
+assessment as best you can - an estimation is fine; we just want a rough idea.) 
+
+~ 2 hours, I was very confused about the package creation because of my file structure.
+ 
+2. What online resources you have used? (My lectures, YouTube, Stack overflow etc.) 
+ 
+I ended up calling a friend who is a Java Developer and he helped me understand packages and importing and even a little bit about intellij vs VSCode for Java Development.
+
+3. Did you need to ask any of your friends in solving the problems. (If yes, please mention 
+name of the friend. They must be amongst your class fellows.) 
+
+See above - I didn't necessarily end up needing any help with the logic of the exercises but just needed a larger understanding of the language and it's nuances.
+ 
+4. Did you need to ask questions to any of your instructors? If so, how many questions did 
+you ask (or how many help sessions did you require)? 
+
+No I didn't end up needing to ask any questions to any instructors.
+ 
+5. Rate (subjectively) the difficulty of each question from your own perspective, and 
+whether you feel confident that you can solve a similar but different problem requiring 
+some of the same techniques in the future now that you’ve completed this one.
+
+The quesitons are perfectly fine - as usual i find it a bit tricky to decipher exactly what you are asking. I think spending some time in different IDEs and talking about little nuances like how folder names can't contain any special characters if you intend to use them as a package or something like that could be valuable because this isn't always super intuitive and I spent a good bit of time trying to understand what was going on.
